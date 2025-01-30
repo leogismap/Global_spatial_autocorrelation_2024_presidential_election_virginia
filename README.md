@@ -1,0 +1,2 @@
+# Global_spatial_autocorrelation_2024_presidential_election_virginia
+Global spatial autocorrelation analysis for 2024 presidential election in Virginia
