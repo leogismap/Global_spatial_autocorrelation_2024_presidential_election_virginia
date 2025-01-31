@@ -1,4 +1,4 @@
-
+# Global spatial autocorrelation analysis for 2024 presidential election in Virginia
 Spatial autocorrelation means that things that are close together tend to be similar. If one location has a certain value, nearby locations are likely to have similar values. It’s like how the weather in one city is often similar to the weather in a nearby city.
 
 This is similar to regular correlation, which measures how two different things change together (like height and weight). However, spatial autocorrelation focuses on how one thing changes across different locations.
